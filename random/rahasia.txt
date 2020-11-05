@@ -1,1 +1,26 @@
-Owner BOT jual Cpanel All Unlimited Murah,aktof 1 tahun hanya Rp.20.000
+Owner BOT jual Cpanel All Unlimited Murah,aktif 1 tahun hanya Rp.20.000
+Statistik Cpanel:
+Disk Usage
+0 MB / ∞	
+MySQL® Disk Usage
+0 bytes / ∞	
+Bandwidth
+0 MB / ∞	
+Addon Domains
+0 / ∞	
+Subdomains
+0 / ∞	
+Aliases
+0 / ∞	
+Email Accounts
+0 / ∞	
+Mailing Lists
+0 / ∞	
+Autoresponders
+0 / ∞	
+Forwarders
+0 / ∞	
+Email Filters
+0 / ∞	
+MySQL® Databases
+0 / ∞
